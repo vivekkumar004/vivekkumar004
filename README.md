@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India. Developing new skills.</h3>
+
+- Currently working on these frameworks and Libraries **React, React Native, Next.js**
 
 - 🌱 I’m currently learning **Node.js with it's framework**
 
